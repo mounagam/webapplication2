@@ -1,0 +1,6 @@
+D:\AzureDevopsdemo\AzureDevopsdemo\bin\AzureDevopsdemo.dll.config
+D:\AzureDevopsdemo\AzureDevopsdemo\bin\AzureDevopsdemo.dll
+D:\AzureDevopsdemo\AzureDevopsdemo\bin\AzureDevopsdemo.pdb
+D:\AzureDevopsdemo\AzureDevopsdemo\obj\Debug\AzureDevopsdemo.csprojResolveAssemblyReference.cache
+D:\AzureDevopsdemo\AzureDevopsdemo\obj\Debug\AzureDevopsdemo.dll
+D:\AzureDevopsdemo\AzureDevopsdemo\obj\Debug\AzureDevopsdemo.pdb
